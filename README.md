@@ -30,7 +30,7 @@ uc_template_create(template)
 ## Installation
 _Provide basic installation instructions, whilst also linking to more detailed installation instructions._
 
-This project uses [CMake](https://cmake.org/) to build, test, and install `utic-timing`. Installation instructions are contained within [INSTALL.md](https://github.com/camieac/utilc-template/blob/master/INSTALL.md), and summarised below:
+This project uses [CMake](https://cmake.org/) to build, test, and install `utic-template`. Installation instructions are contained within [INSTALL.md](https://github.com/camieac/utilc-template/blob/master/INSTALL.md), and summarised below:
 
 ```
 git clone https://github.com/camieac/utilc-template.git
