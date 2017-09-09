@@ -4,11 +4,11 @@
 
 1. Clone the repository to your computer.
 	```
-	git clone https://github.com/camieac/utilc-template.git
+	git clone https://github.com/camieac/utilc-file.git
 	```
-2. Enter the `utilc-template` directory.
+2. Enter the `utilc-file` directory.
 	```
-	cd utilc-template
+	cd utilc-file
 	```
 3. Generate the build system.
 	```
